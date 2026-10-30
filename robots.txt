@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://legal-diary-site.vercel.app/sitemap.xml
